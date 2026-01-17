@@ -3,7 +3,7 @@ export default function TextName() {
     <div>
       <h1 className="text-6xl font-bold text-center mt-30 bg-linear-to-r from-purple-400 via-pink-500 to-red-500 bg-clip-text text-transparent">
         {" "}
-        Hi. I,m Worapon.
+        Hi. I'm Worapon.
       </h1>
       <p
         className=" text-center mt-4 mx-auto bg-linear-to-r from-green-400 via-blue-500 to-purple-500 bg-clip-text text-transparent
