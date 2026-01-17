@@ -8,16 +8,16 @@ function Skills() {
       </div>
       <div>
         <div className=" bg-linear-to-r from-green-500 via-yellow-300 to-yellow-600 bg-clip-text text-transparent font-semibold text-2xl flex flex-wrap gap-5 text-center items-center justify-center">
-          <div className="border-2 border-white px-5 py-2 w-fill">React</div>
-          <div className="border-2 border-white px-5 py-2 w-fill">
+          <div className="border-1 border-white px-5 py-2  w-fill">React</div>
+          <div className="border-1 border-white px-5 py-2 w-fill">
             JavaScript
           </div>
-          <div className="border-2 border-white px-5 py-2 w-fill">
+          <div className="border-1 border-white px-5 py-2 w-fill">
             Tailwind CSS
           </div>
-          <div className="border-2 border-white px-5 py-2 w-fill">Node.js</div>
-          <div className="border-2 border-white px-5 py-2 w-fill">MongoDB</div>
-          <div className="border-2 border-white px-5 py-2 w-fill">Git</div>
+          <div className="border-1 border-white px-5 py-2 w-fill">Node.js</div>
+          <div className="border-1 border-white px-5 py-2 w-fill">MongoDB</div>
+          <div className="border-1 border-white px-5 py-2 w-fill">Git</div>
         </div>
         <div className="mt-15 flex justify-center">
           <svg
@@ -62,7 +62,7 @@ function Skills() {
          C100 150, 160 160, 120 200
          C100 220, 90 220, 80 240"
               stroke="url(#pathGradient)"
-              strokeWidth="7"
+              strokeWidth="4"
               strokeLinecap="round"
               fill="none"
               markerEnd="url(#arrow)"
